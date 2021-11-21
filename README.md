@@ -14,6 +14,10 @@ From the command line, clone the repository:
 ```sh
 $ git clone https://github.com/AchillesJorgie/bibit-movie-app.git
 ```
+move inside the cloned repository
+```sh
+$ cd bibit-movie-app
+```
 
 ## Step 3 Install Modules
 
